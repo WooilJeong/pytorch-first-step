@@ -14,7 +14,7 @@
 | 2  | 파이토치                         | 박종민 | 2020.01.07(화) | [pdf][ch01pdf]     |      |
 | 3  | 선형회귀분석                      | 문규리 | 2020.01.07(화) | [slide][ch03slide] |      |
 | 4  | 인공 신경망                       | 김대영 | 2020.01.14(화) |                    |      |
-| 5  | 합성곱 신경망                     | 정우일 | 2020.01.14(화) |                    |      |
+| 5  | 합성곱 신경망                     | 정우일 | 2020.01.14(화) | [pdf][ch05pdf]     |      |
 | 6  | 순환 신경망                       | 강의찬 |               |                    |      |
 | 7  | 학습 시 생길 수 있는 문제점과 해결 방안 | 김대영 |               |                    |      |
 | 8  | 뉴럴 스타일 트랜스퍼                | 정우일 |               |                    |      |
@@ -22,7 +22,10 @@
 | 10 | 생성적 적대 신경망                 | 유진수 |               |                    |      |
 
 [ch01pdf]: ./Ch01_and_Ch02/Deep_Learning_and_PyTorch.pdf
+
 [ch03slide]: https://docs.google.com/presentation/d/1K_4oDBrSnzEjUly5BBNEo-nUhPUDhTQoxRVrwkV6RG4/edit
+
+[ch05pdf]: ./Ch05_CNN/Ch05_CNN.pdf
 
 ## Resource
 
