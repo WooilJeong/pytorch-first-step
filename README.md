@@ -15,7 +15,7 @@
 | 3  | 선형회귀분석                      | 문규리 | 2020.01.07(화) | [slide][ch03slide] |      |
 | 4  | 인공 신경망                       | 김대영 | 2020.01.14(화) | [pdf][ch04pdf], [colab1][ch04colab1], [colab2][ch04colab2] |      |
 | 5  | 합성곱 신경망                     | 정우일 | 2020.01.14(화) | [pdf][ch05pdf]     |      |
-| 6  | 순환 신경망                       | 강의찬 | 2020.01.21(화) |                    |      |
+| 6  | 순환 신경망                       | 강의찬 | 2020.01.21(화) | [pdf][ch06pdf]    | [cross_entropy][cross_entropy] |
 | 7  | 학습 시 생길 수 있는 문제점과 해결 방안 | 김대영 | 2020.01.21(화) | [pdf][ch07pdf], [colab][ch07colab] |      |
 | 8  | 뉴럴 스타일 트랜스퍼                | 정우일 |               |                    |      |
 | 9  | 오토인코더                        | 조희주 |               |                    |      |
@@ -32,6 +32,10 @@
 [ch04colab2]: https://colab.research.google.com/github/machinelearning-pangyo/pytorch-first-step/blob/master/Ch04_ANN/4_4_인공신경망_실습_in_tf2_dykim.ipynb
 
 [ch05pdf]: ./Ch05_CNN/Ch05_CNN.pdf
+
+[ch06pdf]: ./Ch06_RNN/파이토치_첫걸음_CHAPTER_6.pdf
+
+[cross_entropy]: ./Ch06_RNN/cross_entropy.pdf
 
 [ch07pdf]: ./Ch07_Techtips_for_NN/7.%20학습시%20생길수%20있는%20문제점과%20해결%20방안.pdf
 
