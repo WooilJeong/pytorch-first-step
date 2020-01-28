@@ -41,11 +41,11 @@
 
 [ch07colab]: https://colab.research.google.com/github/machinelearning-pangyo/pytorch-first-step/blob/master/Ch07_Techtips_for_NN/Standardization_vs_Minmax.ipynb
 
-[ch08pdf]:
+[ch08pdf]: https://github.com/machinelearning-pangyo/pytorch-first-step/blob/master/Ch08_Neural_Style_Transfer/Ch08_Neural_Style_Transfer.pdf
 
-[ch08colab1]:
+[ch08colab1]: https://drive.google.com/open?id=15P59lmM1V3Dnr915qTtxGbH8apbVIUMh
 
-[ch08colab2]: 
+[ch08colab2]: https://drive.google.com/open?id=1LqXKRYEzeFacEpj2XRiF1DHVNwKWcw_2
 
 ## Resource
 
