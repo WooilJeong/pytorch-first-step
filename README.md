@@ -17,7 +17,7 @@
 | 5  | 합성곱 신경망                     | 정우일 | 2020.01.14(화) | [pdf][ch05pdf]     |      |
 | 6  | 순환 신경망                       | 강의찬 | 2020.01.21(화) | [pdf][ch06pdf]    | [cross_entropy][cross_entropy] |
 | 7  | 학습 시 생길 수 있는 문제점과 해결 방안 | 김대영 | 2020.01.21(화) | [pdf][ch07pdf], [colab][ch07colab] |      |
-| 8  | 뉴럴 스타일 트랜스퍼                | 정우일 |               |                    |      |
+| 8  | 뉴럴 스타일 트랜스퍼                | 정우일 | 2020.01.28(화) | [pdf][ch05pdf] | [colab1][ch08colab1]], [colab2][ch08colab2] |
 | 9  | 오토인코더                        | 조희주 |               |                    |      |
 | 10 | 생성적 적대 신경망                 | 유진수 |               |                    |      |
 
@@ -40,6 +40,12 @@
 [ch07pdf]: ./Ch07_Techtips_for_NN/7.%20학습시%20생길수%20있는%20문제점과%20해결%20방안.pdf
 
 [ch07colab]: https://colab.research.google.com/github/machinelearning-pangyo/pytorch-first-step/blob/master/Ch07_Techtips_for_NN/Standardization_vs_Minmax.ipynb
+
+[ch08pdf]:
+
+[ch08colab1]:
+
+[ch08colab2]: 
 
 ## Resource
 
